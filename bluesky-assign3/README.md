@@ -2,6 +2,8 @@
 You'll find the starter code for Assignment 3 in this repository. More detailed
 instructions can be found in the assignment spec.
 
+[Assignment 3 Spec](https://docs.google.com/document/d/1oiHNC7073vZ1kWSEjwO2MO1cOErdRH15ImCsNXgidpI/edit?tab=t.0)
+
 ## The Python ATProto SDK
 To build your labeler, you'll be using the AT Protocol SDK, which is documented [here](https://atproto.blue/en/latest/).
 
