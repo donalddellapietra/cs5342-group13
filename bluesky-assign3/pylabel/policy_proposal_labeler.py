@@ -49,7 +49,7 @@ class PolicyProposalLabeler:
                     # do not label this post
                     continue
 
-                labeled_posts.append([post.record.url, [label]])
+                labeled_posts.append([post.uri, [label]])
 
         return labeled_posts
 
